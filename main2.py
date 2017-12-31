@@ -28,9 +28,9 @@ else:
 # print(x_asin)
 #
 # # can add more questions for fields like cost, sales price etc..
-#
-# prod = client.model('product.product')
-# prod.create({'name': name, 'x_asin': x_asin})
+
+prod = client.model('product.product')
+prod.create({'name': name, 'x_asin': x_asin})
 
 print('Record added successfully!')
 
