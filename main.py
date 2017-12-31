@@ -2,8 +2,8 @@ import odoorpc
 
 # Insert credentials below
 
-URL = '172.104.29.204'
-DB = 'odoo'
+
+URL = '111.111.111.111' #replace with your serverDB = 'odoo'
 USERNAME = 'test@test.com'
 PASSWORD = 'admin'
 
