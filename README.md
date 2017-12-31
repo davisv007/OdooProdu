@@ -10,8 +10,9 @@ To run it in the command line simply type:
 
 >python main2.py  <product_name>  <x_asin>
 
-answer the questions it asks and the product will be added to your database
+
 if you don't include the arguments the program will ask you
+and the product will be added to your database
 
 more questions->more fields for the product
 
