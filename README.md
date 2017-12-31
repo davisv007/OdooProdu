@@ -8,7 +8,7 @@ To run:
 this program can be run by your favorite IDE or by command line
 To run it in the command line simply type:
 
->python main2.py <product name> <x_asin>
+>python main2.py  <product name>  <x_asin>
 
 answer the questions it asks and the product will be added to your database
 if you don't include the arguments the program will ask you
