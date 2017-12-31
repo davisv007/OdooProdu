@@ -3,7 +3,7 @@ from sys import argv
 
 # Insert credentials below
 
-URL = '172.104.29.204'
+URL = '111.111.111.111' #replace with your server
 DB = 'odoo'
 USERNAME = 'test@test.com'
 PASSWORD = 'admin'
