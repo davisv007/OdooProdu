@@ -10,7 +10,7 @@ PASSWORD = 'admin'
 
 ##########################
 
-client = erppeek.Client(server='http://172.104.29.204:8069', db='odoo', user='test@test.com', password='admin',
+client = erppeek.Client(server='http://{}:8069'.format(URL), db=DB, user=USERNAME, password=PASSWORD,
                         verbose=True)
 
 # when verbose is true you can see the commands that this library is entering,
